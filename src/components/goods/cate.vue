@@ -19,7 +19,6 @@
         :expand-type="false"
         :show-index="true"
         border
-        stripe
         :show-row-hover="false"
       >
         <!-- 是否有效 -->
@@ -323,7 +322,7 @@ export default {
 }
 </script>
 
-<style lang="less" scope>
+<style lang="less" scoped>
 .treeTable {
   margin-top: 15px;
 }
