@@ -7,6 +7,7 @@ import './assets/css/global.css'
 import './assets/fonts/iconfont.css'
 import axios from 'axios'
 import TreeTable from 'vue-table-with-tree-grid'
+
 // 导入富文本编辑器
 import VueQuillEditor from 'vue-quill-editor'
 

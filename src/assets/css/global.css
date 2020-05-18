@@ -33,3 +33,6 @@ body,
 .ql-editor {
   min-height: 300px;
 }
+.el-breadcrumb{
+  font-size: 14px
+}
